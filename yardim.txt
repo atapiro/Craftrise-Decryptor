@@ -1,0 +1,3 @@
+pip install customtkinter pycryptodome tkinterdnd2
+yapamayanlar discord üzerinden iletişeme geçebilir: atapiro.
+craftrise için config.json çözücü stealerde yapılabilir
